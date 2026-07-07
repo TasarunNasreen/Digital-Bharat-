@@ -1,0 +1,23 @@
+[
+  {
+    "id": "sch-001",
+    "name": "Student Scholarship Support",
+    "category": "Education",
+    "eligibility": "Students from eligible income groups",
+    "status": "Open"
+  },
+  {
+    "id": "sch-002",
+    "name": "Startup India Guidance",
+    "category": "Business",
+    "eligibility": "Registered early-stage businesses",
+    "status": "Open"
+  },
+  {
+    "id": "sch-003",
+    "name": "Senior Citizen Assistance",
+    "category": "Welfare",
+    "eligibility": "Citizens aged 60 and above",
+    "status": "Open"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ntf-001",
+    "title": "Income certificate request moved to review",
+    "type": "Application",
+    "read": false,
+    "createdAt": "2026-07-04"
+  },
+  {
+    "id": "ntf-002",
+    "title": "New scholarship scheme added",
+    "type": "Scheme",
+    "read": false,
+    "createdAt": "2026-07-02"
+  },
+  {
+    "id": "ntf-003",
+    "title": "Road repair complaint resolved",
+    "type": "Complaint",
+    "read": true,
+    "createdAt": "2026-06-30"
+  }
+]

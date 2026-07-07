@@ -1,0 +1,26 @@
+[
+  {
+    "id": "svc-001",
+    "name": "Aadhaar Update Assistance",
+    "department": "Identity Services",
+    "category": "Documents",
+    "status": "Available",
+    "estimatedTime": "15 minutes"
+  },
+  {
+    "id": "svc-002",
+    "name": "Income Certificate Application",
+    "department": "Revenue Department",
+    "category": "Certificates",
+    "status": "Available",
+    "estimatedTime": "20 minutes"
+  },
+  {
+    "id": "svc-003",
+    "name": "Property Tax Payment",
+    "department": "Municipal Services",
+    "category": "Payments",
+    "status": "Available",
+    "estimatedTime": "10 minutes"
+  }
+]

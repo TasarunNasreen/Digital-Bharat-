@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cmp-001",
+    "title": "Streetlight not working",
+    "department": "Municipal Services",
+    "status": "In Review",
+    "priority": "Medium",
+    "createdAt": "2026-07-01"
+  },
+  {
+    "id": "cmp-002",
+    "title": "Water supply interruption",
+    "department": "Water Board",
+    "status": "Pending",
+    "priority": "High",
+    "createdAt": "2026-07-03"
+  },
+  {
+    "id": "cmp-003",
+    "title": "Road repair request",
+    "department": "Public Works",
+    "status": "Resolved",
+    "priority": "Low",
+    "createdAt": "2026-06-28"
+  }
+]

@@ -8,9 +8,7 @@ Making Government Services Faster, Smarter & More Accessible through Artificial 
 </p>
 
 <p align="center">
-<img src="<img width="1895" height="957" alt="Screenshot 2026-07-07 142306" src="https://github.com/user-attachments/assets/829a9000-e684-40f5-ab71-186f19db4e06" />
-"/>
-<img src="<img width="1913" height="982" alt="Screenshot 2026-07-07 142237" src="https://github.com/user-attachments/assets/23024780-589a-4e8b-ac29-cab1d6a7b675" />
+
 >
 
 <img src="https://img.shields.io/badge/License-MIT-green"/>

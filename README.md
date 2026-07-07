@@ -230,11 +230,9 @@ Example:
 
 ```
 screenshots/
-│── home.png
-│── dashboard.png
-│── assistant.png
-│── services.png
-│── complaints.png
+│── <img width="1913" height="982" alt="Screenshot 2026-07-07 142237" src="https://github.com/user-attachments/assets/21527000-6bc0-456e-be06-4e2613788d37" />
+│── <img width="1895" height="957" alt="Screenshot 2026-07-07 142306" src="https://github.com/user-attachments/assets/9df14545-b570-49cc-9076-21c94d5b6aec" />
+
 ```
 
 ---

@@ -297,14 +297,11 @@ npm run build
 
 ---
 
-# 👥 Team
-
-**Team Name:** She++
 
 ### Members
 
 - **Tasarun Nasreen**
-- **Sanskriti Shukla**
+  
 
 ---
 
@@ -344,6 +341,6 @@ This project is licensed under the **MIT License**.
 
 ### ⭐ If you found this project helpful, consider giving it a Star!
 
-**Built with ❤️ for a Smarter Digital India 🇮🇳**
+**Built with ❤️ for a Smarter Digital India **
 
 </div>

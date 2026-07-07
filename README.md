@@ -253,8 +253,6 @@ screenshots/
 
 ## Tasarun Nasreen
 
-**B.Tech CSE (Data Science)**  
-KIIT Deemed to be University
 
 **Sole Developer of Digital Bharat**
 

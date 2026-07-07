@@ -1,244 +1,161 @@
-<div align="center">
-
-# 🇮🇳 Digital Bharat
-### AI-Powered Civic Companion
+# Digital Bharat
+### AI-Powered Citizen Services Platform
 
 <p align="center">
-Making Government Services Faster, Smarter & More Accessible through Artificial Intelligence.
+  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
 
-<p align="center">
+---
 
->
+## 📖 Overview
 
-<img src="https://img.shields.io/badge/License-MIT-green"/>
-</p>
+**Digital Bharat** is an AI-powered citizen service platform designed to simplify access to government services through a modern, responsive, and user-friendly interface.
 
-</div>
+Instead of navigating multiple government portals, citizens can access essential services, track complaints, manage important documents, receive AI-powered assistance, and monitor application progress—all from a single platform.
+
+The project demonstrates how modern web technologies can create an intuitive digital governance experience.
 
 ---
 
-# 📖 Overview
+## 🎯 Problem Statement
 
-**Digital Bharat** is an AI-powered civic companion designed to simplify citizens' interaction with government services. It leverages Generative AI concepts to provide personalized assistance, smart recommendations, complaint management, multilingual support, and document guidance through a modern, intuitive interface.
+Citizens often face challenges such as:
 
-Built as a prototype for the **PromptWars – Global Prompt Challenge**, Digital Bharat demonstrates how AI can make public services more transparent, accessible, and user-friendly.
+- Multiple government websites
+- Complex documentation processes
+- Difficulty tracking applications
+- Lack of centralized citizen services
+- Poor user experience across portals
 
----
-
-# 🚀 Live Demo
-
-🌐 **Website:** https://digitalbharat-delta.vercel.app
-
-📂 **Repository:** https://github.com/TasarunNasreen/Digital-Bharat-
-
----
-
-# 🎯 Problem Statement
-
-Citizens often struggle to:
-
-- Find the right government services.
-- Understand required documentation.
-- Track complaints efficiently.
-- Discover relevant government schemes.
-- Access services in multiple languages.
-- Navigate fragmented government portals.
-
-Digital Bharat addresses these challenges through a unified AI-powered civic platform.
-
----
-
-# 💡 Solution
-
-Digital Bharat combines AI-assisted guidance with a modern dashboard to provide:
-
-- Smart Government Service Discovery
-- AI Civic Assistant
-- Complaint Registration & Tracking
-- Personalized Scheme Recommendations
-- Secure Document Management
-- Multilingual Support
-- Citizen Dashboard
+Digital Bharat addresses these issues by providing one unified digital platform.
 
 ---
 
 # ✨ Features
 
-## 🤖 AI Assistant
+### 🏠 Modern Landing Page
+- Professional Government-inspired UI
+- Hero section
+- Statistics
+- Feature highlights
+- Call-to-Action
+- Responsive design
 
-- AI-powered citizen support
-- Government information guidance
-- Smart recommendations
-- Context-aware responses
+### 🤖 AI Assistant
+- Interactive AI chat interface
+- Suggested prompts
+- Citizen guidance
+- Requirement checklist
 
----
+### 📋 Complaint Management
+- Report new complaints
+- Track complaint status
+- Timeline visualization
+- Complaint history
 
-## 🏛 Government Services
+### 📄 Document Vault
+- Store important documents
+- Organized document cards
+- Easy access interface
 
-Browse services such as:
+### 🏛 Government Services
+- Service search
+- Service categories
+- Smart filtering
+- Responsive service cards
 
-- Aadhaar
-- PAN Card
-- Passport
-- Driving Licence
-- DigiLocker
-- EPFO
-- Ayushman Bharat
-- Land Records
-- E-Gazette
+### 📊 Dashboard
+- Citizen overview
+- Complaint summaries
+- Activity cards
+- Quick navigation
 
----
-
-## 🚨 Complaint Management
-
-- Report civic issues
-- Generate complaint ticket
-- Track complaint progress
-- Complaint timeline
-
----
-
-## 📄 Document Center
-
-- Uploaded documents
-- Verification status
-- Required document checklist
-
----
-
-## 🎯 Smart Recommendations
-
-Personalized suggestions based on citizen profile including:
-
-- Government Schemes
-- Public Services
-- Required Documents
-
----
-
-## 🌐 Multilingual Support
-
-- English
-- Hindi
-- Odia
-
----
-
-## 📱 Responsive Design
-
-Optimized for:
-
-- Desktop
-- Tablet
-- Mobile
-
----
-
-# 🖥️ Dashboard Modules
-
-- Home Dashboard
-- AI Assistant
-- Government Services
-- Report Issue
-- Track Complaint
-- Documents
-- Profile
+### 👤 User Profile
+- Profile management
 - Settings
+- Notification preferences
+- Language selection
 
 ---
 
-# 🏗️ Tech Stack
+# 🛠 Tech Stack
 
-| Category | Technology |
-|-----------|------------|
-| Framework | Next.js 15 |
-| Language | TypeScript |
-| Styling | Tailwind CSS |
-| UI Components | shadcn/ui |
-| Icons | Lucide React |
-| Data Storage | Local JSON |
-| State Persistence | Local Storage |
-| Deployment | Vercel |
+| Technology | Purpose |
+|------------|---------|
+| Next.js 15 | Frontend Framework |
+| React 19 | UI Library |
+| TypeScript | Type Safety |
+| Tailwind CSS | Styling |
+| Radix UI | UI Components |
+| Lucide React | Icons |
+| Local Storage | Client-side Persistence |
 
 ---
 
-# 🧠 Prompt Workflow
+# 📁 Project Structure
 
-```text
-Citizen Query
-      │
-      ▼
-Intent Detection
-      │
-      ▼
-Retrieve Local Civic Data
-      │
-      ▼
-Mock AI Processing
-      │
-      ▼
-Generate Response
-      │
-      ▼
-Recommend Services & Schemes
-      │
-      ▼
-Display Results
+```
+Digital-Bharat/
+
+│── app/
+│   ├── assistant/
+│   ├── dashboard/
+│   ├── documents/
+│   ├── profile/
+│   ├── report/
+│   ├── services/
+│   ├── settings/
+│   └── track/
+│
+│── components/
+│   ├── citizen/
+│   ├── core/
+│   ├── dashboard/
+│   ├── layout/
+│   └── ui/
+│
+│── data/
+│── hooks/
+│── lib/
+│── public/
+│── styles/
+│
+└── README.md
 ```
 
 ---
 
-# 📂 Project Structure
+# 🚀 Installation
 
-```text
-digital-bharat/
-│
-├── app/
-├── components/
-├── data/
-├── hooks/
-├── lib/
-├── public/
-├── styles/
-│
-├── README.md
-├── LICENSE
-├── package.json
-├── tsconfig.json
-├── next.config.ts
-└── tailwind.config.ts
-```
-
----
-
-# 🚀 Getting Started
-
-## Clone Repository
+Clone the repository
 
 ```bash
-git clone https://github.com/TasarunNasreen/Digital-Bharat-.git
+git clone https://github.com/yourusername/Digital-Bharat.git
 ```
 
-## Navigate to Project
+Move into the project
 
 ```bash
-cd Digital-Bharat-
+cd Digital-Bharat
 ```
 
-## Install Dependencies
+Install dependencies
 
 ```bash
 npm install
 ```
 
-## Start Development Server
+Run the development server
 
 ```bash
 npm run dev
 ```
 
-Open:
+Visit
 
 ```
 http://localhost:3000
@@ -246,99 +163,119 @@ http://localhost:3000
 
 ---
 
-# 🏗️ Production Build
+# 💻 Available Scripts
+
+```bash
+npm run dev
+```
+
+Runs the development server.
 
 ```bash
 npm run build
 ```
 
+Builds the production application.
+
+```bash
+npm run start
+```
+
+Starts the production server.
+
 ---
 
-# 📸 Screenshots
+# 📱 Responsive Design
 
-> Add screenshots of the following pages here:
+The application is optimized for:
 
-- Landing Page
-- Dashboard
-- AI Assistant
-- Government Services
-- Complaint Tracker
-- Documents Page
+- 💻 Desktop
+- 📱 Mobile
+- 📲 Tablet
+
+---
+
+# 🎨 UI Highlights
+
+- Modern Government Portal Design
+- Responsive Layout
+- Reusable Components
+- Clean Navigation
+- Card-based Interface
+- Mobile Friendly
+- Accessible Design
+- Professional Color Palette
 
 ---
 
 # 🔮 Future Enhancements
 
-- Google Gemini Integration
-- Voice Assistant
-- OCR-based Document Verification
-- Real-time Government APIs
-- Push Notifications
-- Authentication System
-- Geo-location Complaint Mapping
-- AI Chat History
-- Offline Support
+- AI-powered multilingual chatbot
+- Authentication system
+- Real Government API integration
+- Aadhaar verification
+- Online payment integration
+- Voice-enabled citizen assistant
+- Push notifications
+- Analytics dashboard
+- Real-time complaint tracking
 
 ---
 
-# 🌟 Highlights
+# 📸 Screenshots
 
-- AI-Powered Civic Companion
-- Modern Government Dashboard
-- Complaint Management System
-- Smart Scheme Recommendations
-- Responsive UI
-- Modular Architecture
-- Accessible Design
-- Vercel Deployment
-- Lightweight & Fast
+> Add your project screenshots here.
 
----
+Example:
 
-
-### Members
-
-- **Tasarun Nasreen**
-  
+```
+screenshots/
+│── home.png
+│── dashboard.png
+│── assistant.png
+│── services.png
+│── complaints.png
+```
 
 ---
 
-# 🏆 Hackathon
+# 🌟 Why Digital Bharat?
 
-Built for the **PromptWars – Global Prompt Challenge**
-
-### Organized by
-
-- Devengers
-
-### Powered by
-
-- Hack2Skill
-- Google for Developers
+- Simplifies access to government services
+- Centralizes citizen resources
+- Improves digital governance experience
+- Demonstrates modern frontend architecture
+- Built with scalable and reusable components
 
 ---
 
-# 🤝 Contributing
+# 👩‍💻 Developer
 
-Contributions, suggestions, and improvements are welcome.
+## Tasarun Nasreen
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a Pull Request
+**B.Tech CSE (Data Science)**  
+KIIT Deemed to be University
 
----
+**Sole Developer of Digital Bharat**
 
-# 📜 License
-
-This project is licensed under the **MIT License**.
+Designed, developed, and implemented the complete project independently, including the user interface, application architecture, reusable components, routing, responsive layouts, and overall user experience.
 
 ---
 
-<div align="center">
+# 📄 License
 
-### ⭐ If you found this project helpful, consider giving it a Star!
+This project is licensed under the MIT License.
 
-**Built with ❤️ for a Smarter Digital India **
+---
 
-</div>
+## ⭐ Support
+
+If you found this project useful, consider giving it a **⭐ Star** on GitHub.
+
+It helps support the project and encourages future development.
+
+---
+
+<p align="center">
+Made with ❤️ by <strong>Tasarun Nasreen</strong>
+</p>

@@ -2,25 +2,34 @@
   {
     "id": "cmp-001",
     "title": "Streetlight not working",
+    "description": "Streetlight near the community park has been off for three nights.",
+    "category": "Electricity",
     "department": "Municipal Services",
-    "status": "In Review",
+    "status": "Under Review",
     "priority": "Medium",
+    "location": "Sector 12, Delhi",
     "createdAt": "2026-07-01"
   },
   {
     "id": "cmp-002",
     "title": "Water supply interruption",
+    "description": "Morning water supply has been irregular for the last two days.",
+    "category": "Water Supply",
     "department": "Water Board",
-    "status": "Pending",
+    "status": "Submitted",
     "priority": "High",
+    "location": "Lajpat Nagar, Delhi",
     "createdAt": "2026-07-03"
   },
   {
     "id": "cmp-003",
     "title": "Road repair request",
+    "description": "Potholes on the main road need repair before monsoon traffic increases.",
+    "category": "Roads",
     "department": "Public Works",
     "status": "Resolved",
     "priority": "Low",
+    "location": "MG Road, Delhi",
     "createdAt": "2026-06-28"
   }
 ]

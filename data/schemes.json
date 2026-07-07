@@ -19,5 +19,19 @@
     "category": "Welfare",
     "eligibility": "Citizens aged 60 and above",
     "status": "Open"
+  },
+  {
+    "id": "sch-004",
+    "name": "Farmer Crop Support",
+    "category": "Agriculture",
+    "eligibility": "Farmers with active land or crop records",
+    "status": "Open"
+  },
+  {
+    "id": "sch-005",
+    "name": "Skill India Career Support",
+    "category": "Employment",
+    "eligibility": "Working professionals seeking upskilling support",
+    "status": "Open"
   }
 ]

@@ -2,6 +2,9 @@
   {
     "id": "usr-001",
     "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "mobile": "+91 98765 43210",
+    "address": "Sector 12, Delhi",
     "state": "Delhi",
     "preferredLanguage": "English",
     "verified": true,
@@ -12,6 +15,9 @@
   {
     "id": "usr-002",
     "name": "Meera Nair",
+    "email": "meera.nair@example.com",
+    "mobile": "+91 98765 12340",
+    "address": "Kochi, Kerala",
     "state": "Kerala",
     "preferredLanguage": "Malayalam",
     "verified": true,

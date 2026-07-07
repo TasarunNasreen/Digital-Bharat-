@@ -3,7 +3,7 @@
     "id": "doc-001",
     "name": "Passport",
     "type": "Identity",
-    "status": "Pending Review",
+    "status": "Pending",
     "updatedAt": "2026-07-05"
   },
   {
@@ -24,7 +24,7 @@
     "id": "doc-004",
     "name": "Driving Licence",
     "type": "Transport",
-    "status": "Verified",
+    "status": "Rejected",
     "updatedAt": "2026-06-18"
   }
 ]

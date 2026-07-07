@@ -4,13 +4,19 @@
     "name": "Aarav Sharma",
     "state": "Delhi",
     "preferredLanguage": "English",
-    "verified": true
+    "verified": true,
+    "age": 21,
+    "occupation": "Student",
+    "isStudent": true
   },
   {
     "id": "usr-002",
     "name": "Meera Nair",
     "state": "Kerala",
     "preferredLanguage": "Malayalam",
-    "verified": true
+    "verified": true,
+    "age": 34,
+    "occupation": "Entrepreneur",
+    "isStudent": false
   }
 ]

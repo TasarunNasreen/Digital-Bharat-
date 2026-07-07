@@ -1,34 +1,92 @@
 [
   {
     "id": "svc-001",
-    "name": "Aadhaar Update Assistance",
-    "department": "Identity Services",
-    "category": "Documents",
+    "name": "Aadhaar",
+    "description": "Apply for Aadhaar enrollment, demographic correction, and mobile number update assistance.",
+    "department": "Unique Identification Authority",
+    "category": "Identity",
     "status": "Available",
-    "estimatedTime": "15 minutes"
+    "estimatedTime": "15 minutes",
+    "requiredDocuments": ["Proof of Identity", "Proof of Address", "Mobile Number"]
   },
   {
     "id": "svc-002",
-    "name": "Income Certificate Application",
-    "department": "Revenue Department",
-    "category": "Certificates",
+    "name": "PAN",
+    "description": "Apply for a new PAN card or request correction of existing PAN details.",
+    "department": "Income Tax Department",
+    "category": "Tax",
     "status": "Available",
-    "estimatedTime": "20 minutes"
+    "estimatedTime": "20 minutes",
+    "requiredDocuments": ["Proof of Identity", "Proof of Address", "Date of Birth Proof"]
   },
   {
     "id": "svc-003",
-    "name": "Property Tax Payment",
-    "department": "Municipal Services",
-    "category": "Payments",
+    "name": "Passport",
+    "description": "Book a Passport Seva appointment and prepare documents for passport verification.",
+    "department": "External Affairs",
+    "category": "Travel",
     "status": "Available",
-    "estimatedTime": "10 minutes"
+    "estimatedTime": "25 minutes",
+    "requiredDocuments": ["Address Proof", "Identity Proof", "Birth Certificate"]
   },
   {
     "id": "svc-004",
-    "name": "Passport Seva Appointment",
-    "department": "External Affairs",
+    "name": "Driving Licence",
+    "description": "Apply for learner licence, permanent driving licence, and licence renewal.",
+    "department": "Transport Department",
+    "category": "Transport",
+    "status": "Available",
+    "estimatedTime": "18 minutes",
+    "requiredDocuments": ["Age Proof", "Address Proof", "Learner Licence"]
+  },
+  {
+    "id": "svc-005",
+    "name": "EPFO",
+    "description": "Check PF balance, update KYC details, and access employee provident fund services.",
+    "department": "Employees Provident Fund Organisation",
+    "category": "Employment",
+    "status": "Available",
+    "estimatedTime": "12 minutes",
+    "requiredDocuments": ["UAN", "Aadhaar", "Bank Account Details"]
+  },
+  {
+    "id": "svc-006",
+    "name": "Ayushman Bharat",
+    "description": "Check eligibility and access health coverage information for eligible households.",
+    "department": "National Health Authority",
+    "category": "Health",
+    "status": "Available",
+    "estimatedTime": "10 minutes",
+    "requiredDocuments": ["Aadhaar", "Ration Card", "Mobile Number"]
+  },
+  {
+    "id": "svc-007",
+    "name": "DigiLocker",
+    "description": "Access, verify, and manage digital documents issued by government departments.",
+    "department": "Digital India",
     "category": "Documents",
     "status": "Available",
-    "estimatedTime": "25 minutes"
+    "estimatedTime": "8 minutes",
+    "requiredDocuments": ["Aadhaar", "Mobile Number"]
+  },
+  {
+    "id": "svc-008",
+    "name": "Land Records",
+    "description": "Search land records, property ownership details, and mutation application status.",
+    "department": "Revenue Department",
+    "category": "Property",
+    "status": "Available",
+    "estimatedTime": "22 minutes",
+    "requiredDocuments": ["Survey Number", "Owner ID Proof", "Property Details"]
+  },
+  {
+    "id": "svc-009",
+    "name": "E-Gazette",
+    "description": "Find official gazette notifications and submit requests for public notices.",
+    "department": "Publication Department",
+    "category": "Public Records",
+    "status": "Available",
+    "estimatedTime": "16 minutes",
+    "requiredDocuments": ["Application Form", "Identity Proof", "Supporting Document"]
   }
 ]

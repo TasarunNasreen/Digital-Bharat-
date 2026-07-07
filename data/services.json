@@ -22,5 +22,13 @@
     "category": "Payments",
     "status": "Available",
     "estimatedTime": "10 minutes"
+  },
+  {
+    "id": "svc-004",
+    "name": "Passport Seva Appointment",
+    "department": "External Affairs",
+    "category": "Documents",
+    "status": "Available",
+    "estimatedTime": "25 minutes"
   }
 ]
